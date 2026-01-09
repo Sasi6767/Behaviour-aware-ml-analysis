@@ -18,6 +18,16 @@ preprocessing, feature engineering, model training, evaluation, and interpretati
 - Model evaluation using train–test split and cross-validation
 - Interpretation of key predictive factors
 
+## Results (Summary)
+The models demonstrated strong predictive performance in identifying behavioural
+overstimulation patterns. Feature engineering and ensemble methods were particularly
+effective in capturing behavioural risk indicators.
+
+## Limitations & Future Work
+- The dataset is limited in scope and may not fully capture real-world behavioural complexity
+- Future work could explore external validation on real-world datasets
+- Additional model explainability techniques could improve interpretability
+
 ## Tools & Technologies
 - Python  
 - pandas, numpy  
